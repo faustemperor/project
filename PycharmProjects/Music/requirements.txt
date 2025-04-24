@@ -1,0 +1,6 @@
+fastapi
+typing_extensions
+uvicorn
+yt-dlp
+mutagen
+requests
